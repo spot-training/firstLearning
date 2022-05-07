@@ -8,3 +8,4 @@
 # created this branch to check how branch works
 # This new branch will be the new working branch
 # Now let starting point 
+# No we'll need to create a new folder within the project that will ensure we have everything needed for the latest development within the team.
